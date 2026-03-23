@@ -112,7 +112,5 @@ python train.py --year 2024 --month 12
 * Deploy as **API** using Flask or FastAPI
 * Automate monthly training with **GitHub Actions / CI pipelines**
 
-```
-
 
 
