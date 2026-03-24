@@ -1,4 +1,3 @@
-````markdown
 # 🚖 NYC Taxi Trip Duration Prediction (Linear Regression)
 
 This project trains a **Linear Regression** model to predict taxi trip durations using New York City green taxi trip data.  
@@ -19,7 +18,7 @@ Install dependencies:
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn joblib pyarrow
-````
+```
 
 or
 
@@ -47,7 +46,7 @@ linear-duration-prediction/
 
 1. Clone the repository:
 
-```bash id="9f3kq1"
+```bash
 git clone git@github.com:asrikanth2788/linear-duration-prediction.git
 cd linear-duration-prediction
 ```
